@@ -1,11 +1,11 @@
 [
   {
-    "version": "tests@v20.0.2",
-    "date": "2026-08-27T03:04:29Z"
+    "version": "nightly",
+    "date": "2026-08-27T17:08:23-06:00"
   },
   {
-    "version": "nightly",
-    "date": "2026-08-26T21:04:29-06:00"
+    "version": "tests@v20.0.2",
+    "date": "2026-08-27T03:04:29Z"
   },
   {
     "version": "tests-frames-devnet@v0.1.0",
