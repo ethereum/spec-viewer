@@ -1,11 +1,11 @@
 [
   {
-    "version": "tests-zkevm@v0.8.3",
-    "date": "2026-09-02T11:47:17Z"
+    "version": "nightly",
+    "date": "2026-09-02T18:35:37-06:00"
   },
   {
-    "version": "nightly",
-    "date": "2026-09-01T17:41:55-06:00"
+    "version": "tests-zkevm@v0.8.3",
+    "date": "2026-09-02T11:47:17Z"
   },
   {
     "version": "tests-glamsterdam-devnet@v8.1.3",
