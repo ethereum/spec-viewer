@@ -1,5 +1,17 @@
 [
   {
+    "version": "tests-frames-devnet@v0.2.0",
+    "date": "2026-09-03T19:09:56Z"
+  },
+  {
+    "version": "tests-zkevm@v0.8.4",
+    "date": "2026-09-03T17:43:54Z"
+  },
+  {
+    "version": "tests-glamsterdam-devnet@v8.1.4",
+    "date": "2026-09-03T14:19:50Z"
+  },
+  {
     "version": "nightly",
     "date": "2026-09-02T18:35:37-06:00"
   },
