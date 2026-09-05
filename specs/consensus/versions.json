@@ -1,11 +1,11 @@
 [
   {
-    "version": "v1.7.0-beta.0",
-    "date": "2026-09-03T17:34:51Z"
+    "version": "nightly",
+    "date": "2026-09-04T13:10:39-05:00"
   },
   {
-    "version": "nightly",
-    "date": "2026-09-03T16:17:33-05:00"
+    "version": "v1.7.0-beta.0",
+    "date": "2026-09-03T17:34:51Z"
   },
   {
     "version": "v1.7.0-alpha.14",
