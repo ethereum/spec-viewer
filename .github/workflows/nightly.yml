@@ -33,7 +33,7 @@ jobs:
         run: |
           mkdir -p specs/consensus/nightly
           cd consensus-specs
-          make _pyspec
+          make build
           cp pyspec.json ../specs/consensus/nightly/spec.json
           cd ..
           # Date the snapshot by the upstream commit it was built from
