@@ -4,12 +4,12 @@
     "date": "2026-09-23T19:25:49Z"
   },
   {
-    "version": "tests@v21.0.0",
-    "date": "2026-09-23T10:01:04Z"
+    "version": "nightly",
+    "date": "2026-09-23T12:01:04+02:00"
   },
   {
-    "version": "nightly",
-    "date": "2026-09-22T20:47:44+02:00"
+    "version": "tests@v21.0.0",
+    "date": "2026-09-23T10:01:04Z"
   },
   {
     "version": "tests-frames-devnet@v0.3.0",
