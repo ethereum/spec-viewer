@@ -1,5 +1,9 @@
 [
   {
+    "version": "tests-zkevm@v21.0.0",
+    "date": "2026-09-23T20:09:38Z"
+  },
+  {
     "version": "tests-focil-devnet@v0.3.0",
     "date": "2026-09-23T19:25:49Z"
   },
