@@ -1,5 +1,9 @@
 [
   {
+    "version": "tests-zkevm@v21.0.6",
+    "date": "2026-10-19T14:12:47Z"
+  },
+  {
     "version": "nightly",
     "date": "2026-10-18T23:58:23+02:00"
   },
