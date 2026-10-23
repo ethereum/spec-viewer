@@ -1,11 +1,11 @@
 [
   {
-    "version": "tests-heze-devnet@v3.0.0",
-    "date": "2026-10-21T17:40:37Z"
+    "version": "nightly",
+    "date": "2026-10-23T00:06:34+01:00"
   },
   {
-    "version": "nightly",
-    "date": "2026-10-21T15:49:15-06:00"
+    "version": "tests-heze-devnet@v3.0.0",
+    "date": "2026-10-21T17:40:37Z"
   },
   {
     "version": "tests-bogota-devnet@v1.1.1",
