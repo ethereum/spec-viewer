@@ -1,11 +1,11 @@
 [
   {
-    "version": "tests-bogota-devnet@v2.0.0",
-    "date": "2026-10-27T19:22:26Z"
+    "version": "nightly",
+    "date": "2026-10-28T10:47:59-06:00"
   },
   {
-    "version": "nightly",
-    "date": "2026-10-27T11:40:55-06:00"
+    "version": "tests-bogota-devnet@v2.0.0",
+    "date": "2026-10-27T19:22:26Z"
   },
   {
     "version": "tests@v21.0.2",
