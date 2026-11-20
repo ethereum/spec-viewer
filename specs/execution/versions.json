@@ -4,6 +4,10 @@
     "date": "2026-11-18T10:27:11-06:00"
   },
   {
+    "version": "tests-benchmark@v0.0.11",
+    "date": "2026-11-12T09:59:56Z"
+  },
+  {
     "version": "tests-zkevm-benchmark@v21.0.7",
     "date": "2026-11-09T15:02:09Z"
   },
