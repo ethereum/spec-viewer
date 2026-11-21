@@ -1,11 +1,11 @@
 [
   {
-    "version": "tests@v21.0.3",
-    "date": "2026-11-20T08:22:21Z"
+    "version": "nightly",
+    "date": "2026-11-20T09:22:21+01:00"
   },
   {
-    "version": "nightly",
-    "date": "2026-11-19T16:28:07Z"
+    "version": "tests@v21.0.3",
+    "date": "2026-11-20T08:22:21Z"
   },
   {
     "version": "tests-benchmark@v0.0.11",
